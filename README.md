@@ -1,6 +1,6 @@
 # Angular To-Do List
 
-![Screenshot of App](/To-Do-List-With-Angular/assets/screenshot.png)
+![Screenshot of App](https://github.com/sonetto104/To-Do-List-With-Angular/blob/main/assets/screenshot.png)
 
 An Angular-based to-do list application where you can add, edit, mark as done, or remove items from your to-do list.
 This application was built using this tutorial: [MDN Angular ToDo App Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
